@@ -1,0 +1,4 @@
+<TextureAtlas imagePath="road.png">
+	<SubTexture name="road1.png" x="0" y="654" width="640" height="652"/>
+	<SubTexture name="road2.png" x="0" y="0" width="640" height="652"/>
+</TextureAtlas>

@@ -1,0 +1,6 @@
+<TextureAtlas imagePath="bikeman3.png">
+	<SubTexture name="bikeman-c1.png" x="0" y="510" width="137" height="511"/>
+	<SubTexture name="bikeman-c2.png" x="139" y="513" width="136" height="508"/>
+	<SubTexture name="bikeman-c3.png" x="139" y="0" width="137" height="511"/>
+	<SubTexture name="bikeman-c4.png" x="0" y="0" width="137" height="508"/>
+</TextureAtlas>
